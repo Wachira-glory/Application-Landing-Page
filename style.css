@@ -1,0 +1,260 @@
+.list{
+   color: grey;
+}
+.navbar{
+    display: flex;
+    gap: 10%;
+}
+.login{
+    display: flex;
+    gap:25px;
+}
+body{
+    margin-left: 13%;
+}
+.feature{
+    color: black;
+}
+.first1{
+    display: flex;
+}
+.improve{
+    margin-top: 12%;
+}
+.imp{
+    font-size: 280%;
+    color:navy;
+    font-weight: bold;
+}
+.charge{
+    color: red;
+    text-decoration: underline;
+}
+.bt{
+ background-color:#FBBCFA;
+ border: none;
+ width:85%;
+ border-radius: 14px;
+
+}
+.app{
+    background-color: navy;
+    
+}
+.plus{
+    font-weight: bold;
+}
+.over{
+    text-align: center;
+    font-size: 135%;
+}
+.imagess{
+    display: flex;
+    margin-left: 12%;
+}
+.prod{
+    text-align: center;
+    font-size: 165%;
+}
+.product{
+    color: red;
+    
+}
+.easy{
+    font-size: 210%;
+}
+.delivered{
+    color: navy;
+    text-align: center;
+}
+.overdelivered{
+    display: flex;
+    gap: 5%;
+    align-items: center;
+}
+.del{
+    color: navy;
+    text-align: center;
+    border: solid 1px palevioletred;
+    width: 25%;
+}
+.rates{
+    font-size: 123%;
+    font-weight: bold;
+}
+.dit{
+    color: red;
+    text-decoration: underline;
+}
+.ditio{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap:1%;
+}
+.letussee{
+    display: flex;
+    gap:10%;
+}
+.helping{
+    text-align: center;
+    font-size: 140%;
+}
+.customer{
+    color: red;
+    text-decoration: underline;
+}
+.know{
+    background-color: navy;
+}
+.interface{
+    display: flex;
+    gap: 10%;
+}
+.some{
+    font-size: 160%;
+    text-align: center;
+}
+.somewords{
+    color: red;
+    text-decoration: underline;
+}
+.people{
+    display: flex;
+    gap: 10%;
+}
+.edwin{
+    border: solid 1px palevioletred;
+    border-radius:4%;
+}
+.overusers{
+    display: flex;
+}
+.overr{
+    margin-top: 25%;
+}
+.fifty{
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+}
+.download{
+    font-size: 180%;
+    color: navy;
+}
+.appp{
+    background-color: navy;
+    color: white;
+   padding: 12px 15px;
+   border-radius: 9%;
+   
+}
+.playy{
+    background-color: white;
+    color: black;
+   padding: 12px 15px;
+   border-radius: 9%;
+   
+}
+.platform{
+    color: grey;
+}
+.cont{
+    text-decoration: underline;
+    font-weight: bold;
+    color: navy;
+}
+.ourproducts li{
+    list-style-type: none;
+    line-height: 184%;
+}
+.ourproducts{
+    color: grey;
+}
+.io{
+    color: white;
+    font-weight: bold;
+}
+.pro{
+    display: flex;
+    margin-left: 22%;
+    gap:13%
+}
+.footer{
+    background-color:  #252849;
+}
+.icons{
+    margin-left: 13%;
+}
+.foot{
+    display: flex;
+    gap :35%;
+    color: grey;
+    background-color: black;
+    padding: 12px 16px;
+}
+@media screen and (min-width:375px) and (max-width:435px){
+   body{
+    margin-left: 13%;
+   }
+   .imagess{
+    display: block;
+    gap: 10%;
+   }
+    .first1{
+        display: grid;
+    }
+   .mann img{
+    width: 75%;
+   }
+    .overdelivered{
+        display: block;
+    }
+    .del{
+        color: navy;
+        text-align: center;
+        border: solid 1px palevioletred;
+        width: 95%;
+    }
+    .letussee{
+        display: block;
+        gap:10%;
+    }
+    .pic1{
+        width: 64%;
+    }
+    .interface{
+        display: block;
+    }
+    .new1 img{
+        width: 14%;
+    }
+    .people{
+        display: block;
+    }
+    .anime img{
+        width: 85%;
+    }
+    .overusers{
+        display: block;
+    }
+    .pro{
+        display: grid;
+        grid-template-columns: auto auto;
+        margin-left: 1%;
+    }
+    .foot{
+       display: block;
+        padding: 21px 27px;
+        line-height: 150%;
+    }
+    .footer{
+        padding: 21px 20px;
+        height: 85%;
+        gap:10%;
+        overflow: hidden;
+    }
+    .login{
+        display: flex;
+    }
+    
+}
