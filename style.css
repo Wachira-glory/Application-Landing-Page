@@ -258,3 +258,63 @@ body{
     }
     
 }
+@media screen  and (min-width:360px){
+    .first1{
+        display: block;
+    }
+    .mann img{
+        width: 84%;
+    }
+    .imagess{
+        display: block;
+        gap: 10%;
+    }
+    .overdelivered{
+        display: block;
+    }
+    .del{
+        color: navy;
+        text-align: center;
+        border: solid 1px palevioletred;
+        width: 80%;
+        align-items: center;
+        margin-left: 13%;
+    }
+    .letussee{
+        display: block;
+    }
+    .pic1 img{
+        width: 91%;
+    }
+    .interface{
+        display: block;
+    }
+    .new1 img{
+        width: 85%;
+    }
+    .people{
+        display: block;
+    }
+    .anime img{
+        width: 95%;
+    }
+    .overusers{
+        display: block;
+    }
+    .pro{
+        display: grid;
+        grid-template-columns: auto auto;
+        overflow: hidden;
+        margin-left: 13%;
+    }
+    .foot{
+        display: block;
+    }
+    .edwin{
+        border: solid 1px palevioletred;
+        border-radius:4%;
+    }
+    
+  
+  
+}
